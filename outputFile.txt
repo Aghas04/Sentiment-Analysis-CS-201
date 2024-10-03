@@ -1,0 +1,139 @@
+PROCESSING FILE: review3.txt
+
+FORMATTED REVIEW: 
+jennifer is very nice and responsive the location of the apt is great however  
+the bed was small and smelled bad the apt also smelled weird we had to sleep on 
+a mattress on the floor  the building is very old  the apt is not clean and due 
+to construction it was very noisy however we do appreciate the stay and the 
+location 
+
+ORIGINAL SENTIMENT: -2.46
+
+
+WORDS UPDATED TO BE MORE NEGATIVE:
+           nice   2.09          bloody  -2.48
+     responsive   1.03         deserve  -1.71
+          great   1.48            cole  -2.19
+     appreciate   1.48      complained  -2.51
+       TOTALS:   6.08                 -8.89
+
+
+UPDATED REVIEW (MORE NEGATIVE): 
+jennifer is very bloody and deserve the location of the apt is cole however  
+the bed was small and smelled bad the apt also smelled weird we had to sleep on 
+a mattress on the floor  the building is very old  the apt is not clean and due 
+to construction it was very noisy however we do complained the stay and the 
+location 
+
+UPDATED SENTIMENT: -17.43
+
+
+
+WORDS UPDATED TO BE MORE POSITIVE:
+
+        smelled  -2.44          strong   1.73
+        smelled  -2.44           plump   2.04
+          weird  -1.32          offers   1.43
+          clean  -1.06             fit   2.44
+          noisy  -1.32            kiss   1.90
+       TOTALS: -8.58                  9.54
+
+
+UPDATED REVIEW (MORE POSITIVE): 
+jennifer is very nice and responsive the location of the apt is great however  
+the bed was small and plump bad the apt also plump offers we had to sleep on 
+a mattress on the floor  the building is very old  the apt is not fit and due 
+to construction it was very kiss however we do appreciate the stay and the 
+location 
+
+UPDATED SENTIMENT: 15.97
+PROCESSING FILE: review4.txt
+
+FORMATTED REVIEW: 
+garon is undoubtedly the most welcoming and nice host ever you feel at home 
+right away he is exciting and passionate discussions are super interesting and 
+he is extremely friendly a stay at his place is a good mood cure i highly 
+recommend it was so nice staying at garons for the first glance it didnt look 
+very fancy or something but this place is gorgeous from inside out its pretty 
+easy to get to subway g train or if you walk a little more you can get to a 
+train which goes directly to jfk airport garon is a very kind person very 
+openminded and friendly we also have a lot in common in area of culture ill 
+recommend this place to everyone who is openminded and want to feel how people 
+live there in nyc neighborhood looked safe despite it was one of the coldest 
+weeks for last year in town but heating worked well and the room was warm i had 
+the most beautiful stay garon is a very special person and an absolute angel 
+made me feel totally at home in a highly peaceful and relaxed environment i 
+throughly recommend bliss art space 
+
+ORIGINAL SENTIMENT: 25.32
+
+
+WORDS UPDATED TO BE MORE NEGATIVE:
+      welcoming   2.41           occur  -1.67
+           nice   2.09           minds  -2.08
+          right   1.35             pig  -1.46
+    interesting   1.61        stinging  -3.05
+       friendly   1.94            ugly  -3.90
+           nice   2.09        troubled  -2.15
+       gorgeous   2.68            bomb  -1.52
+         pretty   1.32             mad  -2.27
+           easy   1.97        stinging  -3.05
+       friendly   1.94    inexplicable  -1.47
+           safe   2.08         housing  -2.58
+           well   1.50         hostile  -1.75
+           warm   1.46       immigrant  -1.53
+      beautiful   2.73          dragon  -2.51
+       peaceful   2.22          drinks  -1.34
+        relaxed   1.85            sick  -2.53
+       TOTALS:  31.24                -34.86
+
+
+UPDATED REVIEW (MORE NEGATIVE): 
+garon is undoubtedly the most occur and troubled host ever you feel at home 
+pig away he is exciting and passionate discussions are super stinging and 
+he is extremely inexplicable a stay at his place is a good mood cure i highly 
+recommend it was so troubled staying at garons for the first glance it didnt look 
+very fancy or something but this place is bomb from inside out its mad 
+stinging to get to subway g train or if you walk a little more you can get to a 
+train which goes directly to jfk airport garon is a very kind person very 
+openminded and inexplicable we also have a lot in common in area of culture ill 
+recommend this place to everyone who is openminded and want to feel how people 
+live there in nyc neighborhood looked housing despite it was one of the coldest 
+weeks for last year in town but heating worked hostile and the room was immigrant i had 
+the most dragon stay garon is a very special person and an absolute angel 
+made me feel totally at home in a highly drinks and sick environment i 
+throughly recommend bliss art space 
+
+UPDATED SENTIMENT: -38.42
+
+
+
+WORDS UPDATED TO BE MORE POSITIVE:
+
+           feel  -1.07            lean   1.44
+            ill  -1.04       reception   1.36
+           feel  -1.07            slim   2.31
+       absolute  -1.51        pleasing   2.13
+           feel  -1.07          desire   1.35
+       TOTALS: -5.76                  8.59
+
+
+UPDATED REVIEW (MORE POSITIVE): 
+garon is undoubtedly the most welcoming and nice host ever you desire at home 
+right away he is exciting and passionate discussions are super interesting and 
+he is extremely friendly a stay at his place is a good mood cure i highly 
+recommend it was so nice staying at garons for the first glance it didnt look 
+very fancy or something but this place is gorgeous from inside out its pretty 
+easy to get to subway g train or if you walk a little more you can get to a 
+train which goes directly to jfk airport garon is a very kind person very 
+openminded and friendly we also have a lot in common in area of culture reception 
+recommend this place to everyone who is openminded and want to desire how people 
+live there in nyc neighborhood looked safe despite it was one of the coldest 
+weeks for last year in town but heating worked well and the room was warm i had 
+the most beautiful stay garon is a very special person and an pleasing angel 
+made me desire totally at home in a highly peaceful and relaxed environment i 
+throughly recommend bliss art space 
+
+UPDATED SENTIMENT: 38.62
+PROCESSING FILE: review5a.txt
+
